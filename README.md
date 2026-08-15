@@ -1,16 +1,110 @@
-# React + Vite
+# TCONGS Infotech — Home Page Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern, responsive redesign of the TCONGS Infotech homepage, developed as part of a frontend selection assignment.
 
-Currently, two official plugins are available:
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://tcongs-redesign-bay.vercel.app)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/akshithareddy1906/tcongs-redesign)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### [Visit the Live Website →](https://tcongs-redesign-bay.vercel.app)
 
-## Expanding the ESLint configuration
+**Production URL:**  
+https://tcongs-redesign-bay.vercel.app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Deployment:** Vercel  
+**Status:** Ready  
+**Branch:** `main`
+
+---
+
+## 📌 About
+
+This project is a complete redesign of the **TCONGS Infotech Home Page** with a focus on creating a modern, professional, responsive, and user-friendly experience.
+
+The redesign presents TCONGS as a modern digital solutions company through a clean visual system, clear content hierarchy, service-focused sections, and conversion-oriented calls to action.
+
+### Assignment Requirements
+
+- Redesign the Home Page only
+- Use any modern web technology/framework
+- Focus on modern UI/UX
+- Ensure responsive behavior
+- Maintain a clean and professional design
+- Host the project and provide a live demo
+
+---
+
+## ✨ Key Features
+
+### 🎯 Hero Section
+
+A high-impact hero section designed to communicate the company's value proposition immediately.
+
+- Clear primary headline
+- Supporting description
+- Primary CTA — **Start a Project**
+- Secondary CTA — **Explore Services**
+- Technology-focused visual
+- Service highlights
+
+---
+
+### 🧭 Responsive Navigation
+
+A clean navigation system provides quick access to the main sections of the homepage.
+
+- Home
+- Services
+- About
+- Process
+- Contact
+- Let's Talk CTA
+- Responsive mobile navigation
+
+---
+
+### 💼 Services
+
+The services section presents the company's core digital capabilities through structured content cards.
+
+- Web Development
+- App Development
+- E-Commerce
+- Digital Marketing
+- UI / UX Design
+- Cloud Solutions
+
+Each service communicates its value through concise supporting content and a clear action.
+
+---
+
+### 🎯 Why TCONGS
+
+A dedicated section communicates the principles behind the company's approach.
+
+#### User Focused
+Creating experiences around real users and their needs.
+
+#### Scalable Solutions
+Building digital products that can evolve with growing businesses.
+
+#### Business Driven
+Designing solutions around meaningful business objectives.
+
+---
+
+### 🔄 Development Process
+
+A simple four-step process communicates how an idea moves from concept to launch.
+
+```text
+01  Discover
+      ↓
+02  Design
+      ↓
+03  Build
+      ↓
+04  Grow
